@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["console","log"],"mappings":"CAAA,WACIA,QAAQC,IAAI","file":"../app-92b3d90c01.js","sourcesContent":["(function() {\r\n    console.log('Hello World');\r\n})();"]}
